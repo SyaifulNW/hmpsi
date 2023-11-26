@@ -33,7 +33,7 @@
                 <div class="sidebar-brand-icon rotate-n-15">
 
                 </div>
-                <div class="sidebar-brand-text mx-3">HMPSI UDB </div>
+                <div class="sidebar-brand-text mx-3">HMPSI | UDB </div>
             </a>
 
             <!-- Divider -->
